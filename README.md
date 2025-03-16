@@ -17,5 +17,5 @@ difficulty = [85,47,57], profit = [24,66,99], worker = [40,25,25]
 difficulty = [2,4,6,8,10], profit = [10,20,30,40,50], worker = [4,5,6,11]
 
 # Problemas em Aula
-Tava com problemas pra fazer o cálculo exato, eu estava pegando o trabalho mais díficil que o trabalhador conseguia fazer, mas nem sempre ele era o que dava mais lucro,
+Estava com problemas pra fazer o cálculo exato, eu estava pegando o trabalho mais díficil que o trabalhador conseguia fazer, mas nem sempre ele era o que dava mais lucro,
 meu código também esta dando Time Limit no último teste.
